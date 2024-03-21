@@ -1,6 +1,6 @@
 {
   "name": "tailwind-test-master-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tailwind react component test",
   "main": "src/index.js",
   "scripts": {
@@ -18,5 +18,18 @@
   "bugs": {
     "url": "https://github.com/singodiyashubham87/tailwind-test-master-react/issues"
   },
-  "homepage": "https://github.com/singodiyashubham87/tailwind-test-master-react#readme"
+  "homepage": "https://github.com/singodiyashubham87/tailwind-test-master-react#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.22.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.38",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  }
 }
